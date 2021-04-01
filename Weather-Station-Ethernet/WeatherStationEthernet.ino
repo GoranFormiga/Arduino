@@ -1,6 +1,6 @@
 /* Weather Station */
-/* The scetch is using 29720 bytes and 92% of Arduino Uno storage space  of max 32356 bytes.
-/* The scetch is using 1533 bytes and 74% of Arduino Uno dynamic storage space fo max 2028 bytes.
+/* The sketch is using 29720 bytes and 92% of Arduino Uno storage space  of max 32356 bytes.
+/* The sketch is using 1533 bytes and 74% of Arduino Uno dynamic storage space fo max 2028 bytes.
 
 /* W5100 */
 #include <Ethernet.h>
